@@ -7,89 +7,17 @@ title: Vytenis Ščiukas
 Solutions Architect | Former Systems Architect | Bridging Technical Expertise with Strategic Solutions
 
 ## Contact
+
 - **Email**: vytsci@gmail.com
 - **Phone**: +37060619595
 - **LinkedIn**: [[LinkedIn profile URL]](https://www.linkedin.com/in/vytenis-sciukas-b5b89928)
+- **GitHub**: [[GitHub profile URL]](https://github.com/vytsci)
 
 ## Summary
-With a solid foundation as a Programmer & Systems Architect, I have successfully transitioned into the role of a Solutions Architect, where I combine deep technical expertise with strategic oversight to deliver innovative and scalable solutions. My journey in the tech industry began with hands-on programming and systems design, which has given me a unique perspective on the intricacies of software development and system integration.
 
-Over the years, I have expanded my skill set to encompass cloud architecture, enterprise systems, and digital transformation, allowing me to take a more holistic approach to solution design. This transition has enabled me to lead projects from concept to completion, ensuring that technical solutions align with business objectives and drive measurable results.
+I started my career as a Programmer and Systems Architect, gaining a deep understanding of software development and system integration. This hands-on experience laid the groundwork for my transition into a Solutions Architect role, where I now blend technical expertise with strategic insight to create innovative and scalable solutions.
 
-I am passionate about leveraging my extensive technical background to create solutions that are not only functional but also forward-thinking and adaptable to the ever-evolving technological landscape.
-
-__Analytical & Problem-Solving Skills__
-
-- **System Architecture:** Expert
-- **Domain Architecture:** Advanced
-- **Process Assessment:** Advanced
-- **Business Process Analysis:** Advanced
-- **Business Process Automation:** Professional
-- **Analytical Skills:** Advanced
-- **Workflow Design:** Advanced
-- **BPMN:** Advanced
-- **Solution Architecture:** Intermediate
-- **Microservices Architecture:** Advanced
-
-__Communication & Interpersonal Skills__
-
-- **Team Management:** Advanced
-- **Team Leadership:** Advanced
-- **Leadership:** Advanced
-- **Customer Relationship Management (CRM):** Advanced
-- **Written Communication (Documentation, Reporting):** Advanced
-- **Verbal Communication (Presentations, Stakeholder Engagement):** Advanced
-
-__Project Management & Leadership Skills__
-
-- **Project Coordination:** Experienced
-- **Agile Methodologies:** Experienced
-- **Employee Training:** Experienced
-- **Project Management Tools (e.g., JIRA, Trello):** Experienced
-- **Enterprise Architecture:** Intermediate
-
-__Technical Skills__
-
-__Programming Languages__
-
-  - **PHP:** Expert
-  - **Java:** Beginner
-  - **React.js:** Experienced
-
-__Frameworks & Libraries__
-
-  - **Laravel:** Expert
-  - **Symfony:** Expert
-
-__DevOps & Infrastructure__
-
-  - **DevOps:** Advanced
-  - **CI/CD Tools (e.g., Jenkins):** Experienced
-  - **Docker:** Experienced
-  - **Cloud Platforms (AWS, Azure):** Intermediate
-
-__Database Management__
-
-  - **MySQL:** Expert
-  - **Object-Relational Mapping (ORM):** Advanced
-  - **Database Design:** Expert
-
-__Software Development__
-
-  - **Object-Oriented Programming (OOP):** Expert
-  - **SOLID Design Principles:** Advanced
-  - **GRASP:** Advanced
-  - **Code Refactoring:** Advanced
-  - **Custom Software Development:** Beginner
-  - **Camunda BPM:** Beginner
-  - **API Design & Integration:** Professional
-  - **Security Best Practices (e.g., OWASP):** Experienced
-
-__Web Technologies__
-
-  - **Magento:** Experienced
-  - **WordPress:** Experienced
-  - **HTML/CSS/JavaScript:** Professional
+With skills in cloud architecture, enterprise systems, and digital transformation, I approach solution design holistically, ensuring that projects align with business goals and deliver measurable results. My passion lies in crafting solutions that are both functional and forward-thinking, adaptable to the ever-evolving tech landscape.
 
 ## Experience
 
