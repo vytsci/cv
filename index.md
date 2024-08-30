@@ -1,4 +1,9 @@
-# Vytenis Sciukas
+---
+layout: cv
+title: Vytenis Ščiukas
+---
+
+# Vytenis Ščiukas
 ## Solutions Architect | Former Systems Architect | Bridging Technical Expertise with Strategic Solutions
 
 ### Contact
