@@ -22,7 +22,6 @@ With skills in cloud architecture, enterprise systems, and digital transformatio
 ## Experience
 
 `Jul 2023 - Present (1 yr 2 mos)`
-
 __Senior System Architect__ @ **Sensus Aero · Full-time**
 
 - Leading the Sensus Aero project with a focus on process improvements and DevOps implementation.
@@ -34,7 +33,6 @@ __Senior System Architect__ @ **Sensus Aero · Full-time**
 ---
 
 `Jul 2022 - Present (2 yrs 2 mos)`
-
 __Chief Technology Officer & Co-Founder__ @ **StackFlows · Contract**  
   
 - Steering architectural decisions and ensuring alignment with stakeholders on various projects.
@@ -46,7 +44,6 @@ __Chief Technology Officer & Co-Founder__ @ **StackFlows · Contract**
 ---
 
 `Jan 2015 - Present (9 yrs 8 mos)`
-
 __Project Manager__ @ **Kauno Krepšinio Lyga · Freelance**
 
 - Overseeing website maintenance and server management while coordinating programming tasks.
@@ -57,7 +54,6 @@ __Project Manager__ @ **Kauno Krepšinio Lyga · Freelance**
 ---
 
 `Aug 2021 - Feb 2022 (7 mos)`
-
 __Information Technology Business Analyst__ @ **Pigu perku group · Freelance**  
 
 - Conducted in-depth analysis of business processes and implemented analytical tools to optimize operations.
