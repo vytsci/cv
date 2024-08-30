@@ -71,7 +71,7 @@ __Solutions Architect__ @ **Baltic Transline · Full-time**
 **Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Workflow Design, Business Process Automation, BPMN, Project Coordination, Code Refactoring, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Employee Training, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
 
 
-`Jan 2018 - Aug 2019 (1 yr 8 mos)`  
+`Jan 2018 - Aug 2019 (1 yr 8 mos)`
 __Chief Software Architect & Engineer__ @ **Tillforty · Full-time**  
 
 - Led the development team on a Swedish flight compensation platform, analyzing and implementing business requirements.
@@ -88,7 +88,7 @@ __Chief Technology Officer__ @ **Ubie Digital · Full-time**
 **Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, Project Coordination, Leadership, Team Management, SOLID Design Principles, MySQL, Business Requirements, Solution Architecture, Customer Relationship Management (CRM), PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, System Architecture
 
 
-`Jan 2017 - Apr 2017 (4 mos)` 
+`Jan 2017 - Apr 2017 (4 mos)`
 __Senior Software Engineer__ @ **Dizaino kryptis · Full-time**  
 
 - Led internal CMS code refactoring efforts to enhance system performance.
@@ -121,7 +121,7 @@ __Software Engineer__ @ **GONEPLAN · Full-time**
 **Skills:** Object-Oriented Programming (OOP), Symfony, MySQL, PHP, Database Design, System Architecture
 
 
-`Jun 2011 - Apr 2015 (3 yrs 11 mos)` 
+`Jun 2011 - Apr 2015 (3 yrs 11 mos)`
 __Software Engineer__ @ **UAB Media Inovacijos · Full-time** 
 
 - Involved in various development projects.
