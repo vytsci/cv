@@ -21,10 +21,9 @@ With skills in cloud architecture, enterprise systems, and digital transformatio
 
 ## Experience
 
-__Senior System Architect__
-**Sensus Aero · Full-time**  
-*Jul 2023 - Present (1 yr 2 mos)*
-Kaunas, Kauno, Lithuania · Remote
+`Jul 2023 - Present (1 yr 2 mos)`
+
+__Senior System Architect__ @ **Sensus Aero · Full-time**
 
 - Leading the Sensus Aero project with a focus on process improvements and DevOps implementation.
 - Driving design enhancements for legacy systems and participating in critical architectural discussions.
@@ -32,38 +31,41 @@ Kaunas, Kauno, Lithuania · Remote
 
 **Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, React.js, Business Process Automation, BPMN, Code Refactoring, Leadership, SOLID Design Principles, MySQL, Business Requirements, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
 
+---
 
-__Chief Technology Officer & Co-Founder__
-**StackFlows · Contract**  
-*Jul 2022 - Present (2 yrs 2 mos)*  
-Kaunas, Kauno, Lithuania · Hybrid
+`Jul 2022 - Present (2 yrs 2 mos)`
 
+__Chief Technology Officer & Co-Founder__ @ **StackFlows · Contract**  
+  
 - Steering architectural decisions and ensuring alignment with stakeholders on various projects.
 - Leading the development team and overseeing the implementation of robust software solutions.
 - Conducting product presentations and consulting on marketing strategies.
 
 **Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Business Process Automation, BPMN, Java, Project Coordination, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
 
-__Project Manager__
-**Kauno Krepšinio Lyga · Freelance**  
-*Jan 2015 - Present (9 yrs 8 mos)*  
-Kaunas, Kauno, Lithuania · Remote
+---
+
+`Jan 2015 - Present (9 yrs 8 mos)`
+
+__Project Manager__ @ **Kauno Krepšinio Lyga · Freelance**
 
 - Overseeing website maintenance and server management while coordinating programming tasks.
 - Ensuring alignment of technical solutions with organizational goals.
 
 **Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, Project Coordination, Code Refactoring, Leadership, Team Management, SOLID Design Principles, MySQL, Business Requirements, PHP, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
 
+---
 
-__Information Technology Business Analyst__
-**Pigu perku group · Freelance**  
-*Aug 2021 - Feb 2022 (7 mos)*  
-Kaunas, Kauno, Lithuania · Hybrid
+`Aug 2021 - Feb 2022 (7 mos)`
+
+__Information Technology Business Analyst__ @ **Pigu perku group · Freelance**  
 
 - Conducted in-depth analysis of business processes and implemented analytical tools to optimize operations.
 - Provided IT consulting services to enhance company efficiency and process management.
 
 **Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, BPMN, Leadership, SOLID Design Principles, MySQL, Laravel, Business Requirements, Customer Relationship Management (CRM), PHP, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture
+
+---
 
 __Solutions Architect__
 **Baltic Transline · Full-time**  
