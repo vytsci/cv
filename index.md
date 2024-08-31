@@ -31,7 +31,7 @@ __Senior System Architect__ @ **Sensus Aero · Full-time**
 - Driving design enhancements for legacy systems and participating in critical architectural discussions.
 - Mentoring team members on complex technical issues and providing architectural guidance.
 
-**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, React.js, Business Process Automation, BPMN, Code Refactoring, Leadership, SOLID Design Principles, MySQL, Business Requirements, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
+**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, React.js, Business Process Automation, BPMN, Code Refactoring, Leadership, SOLID Design Principles, MySQL, Business Requirements, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
 
 
 
@@ -42,7 +42,7 @@ __Chief Technology Officer & Co-Founder__ @ **StackFlows · Contract**
 - Leading the development team and overseeing the implementation of robust software solutions.
 - Conducting product presentations and consulting on marketing strategies.
 
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Business Process Automation, BPMN, Java, Project Coordination, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
+**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Business Process Automation, BPMN, Java, Project Coordination, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
 
 
 
@@ -63,7 +63,7 @@ __Solutions Architect__ @ **Baltic Transline · Full-time**
 - Managed JIRA workflows and contributed to the recruitment process by interviewing potential new hires.
 - Designed and implemented new technological solutions.
 
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Workflow Design, Business Process Automation, BPMN, Project Coordination, Code Refactoring, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Employee Training, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
+**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Workflow Design, Business Process Automation, BPMN, Project Coordination, Code Refactoring, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Employee Training, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
 
 
 
