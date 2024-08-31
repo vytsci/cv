@@ -8,10 +8,13 @@ Solutions Architect | Systems Architect | Bridging Technical Expertise with Stra
 
 ## Contact
 
-- **Email**: vytsci@gmail.com
-- **Phone**: +37060619595
-- **LinkedIn**: [[LinkedIn profile URL]](https://www.linkedin.com/in/vytenis-sciukas-b5b89928)
-- **GitHub**: [[GitHub profile URL]](https://github.com/vytsci)
+**Email**: vytsci@gmail.com
+
+**Phone**: +37060619595
+
+**LinkedIn**: [[LinkedIn profile URL]](https://www.linkedin.com/in/vytenis-sciukas-b5b89928)
+
+**GitHub**: [[GitHub profile URL]](https://github.com/vytsci)
 
 ## Summary
 
@@ -138,19 +141,19 @@ __Software Engineer__ @ **UAB Media Inovacijos · Full-time**
 - **Complete Guide to Elasticsearch**
 - **Data Processing with Logstash (and Filebeat)**
 - **Docker Mastery: with Kubernetes + Swarm from a Docker Captain**
-- **GitLab/GitLab CI Course For Developers and DevOps**
+- [**GitLab/GitLab CI Course For Developers and DevOps**](https://www.udemy.com/certificate/UC-IMZ6EHHO/)
 - **Learn DevOps: CI/CD with Jenkins using Pipelines and Docker**
-- **Mind Mapping Mastery**
+- [**Mind Mapping Mastery**](https://www.udemy.com/certificate/UC-5422aafe-50a0-435e-b3d7-90e872976799/)
 - **MongoDB - The Complete Developer's Guide 2024**
-- **PHP Unit Testing with PHPUnit**
-- **PHP with Laravel for Beginners - Become a Master in Laravel**
+- [**PHP Unit Testing with PHPUnit**](https://www.udemy.com/certificate/UC-HAUAV1WN/)
+- [**PHP with Laravel for Beginners - Become a Master in Laravel**](https://www.udemy.com/certificate/UC-3aec4247-000c-458d-b3af-688a20318445/)
 - **Process Flowcharts & Process Mapping**
-- **Productivity and Time Management for the Overwhelmed**
+- [**Productivity and Time Management for the Overwhelmed**](https://www.udemy.com/certificate/UC-43264f17-f48e-438e-a848-3b6c2d097343/)
 - **Symfony API Platform with React Full Stack Masterclass**
-- **TOGAF® Standard On One Page - Learn TOGAF® Faster!**
-- **The Complete Business Process Management (BPM) Master Class**
-- **The Complete JIRA Agile Project Management Course**
-- **The Practical BPMN 2.0 Master Class**
+- [**TOGAF® Standard On One Page - Learn TOGAF® Faster!**](https://www.udemy.com/certificate/UC-b90f2c98-5e17-4db2-83a3-f1cc1ebde3d1/)
+- [**The Complete Business Process Management (BPM) Master Class**](https://www.udemy.com/certificate/UC-7467a6b2-0dea-47ec-850a-fc7462d8203a/)
+- [**The Complete JIRA Agile Project Management Course**](https://www.udemy.com/certificate/UC-c72548e8-c772-493f-8155-d3fbc6b8aa59/)
+- [**The Practical BPMN 2.0 Master Class**](https://www.udemy.com/certificate/UC-085e8dd2-9b6d-4625-a51b-9644bc67c3fc/)
 - **Web Security and Hacking for Beginners**
 
 
