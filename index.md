@@ -86,7 +86,7 @@ __Chief Technology Officer__ @ **Ubie Digital · Full-time**
 
 
 
-`Jan 2017 - Apr 2017 (4 mos)`
+`2017`
 __Senior Software Engineer__ @ **Dizaino kryptis · Full-time**  
 
 - Led internal CMS code refactoring efforts to enhance system performance.
