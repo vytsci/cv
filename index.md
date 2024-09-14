@@ -18,13 +18,13 @@ Solutions Architect | Systems Architect | Bridging Technical Expertise with Stra
 
 ## Summary
 
-I started my career as a Programmer and Systems Architect, gaining a deep understanding of software development and system integration. This hands-on experience laid the groundwork for my transition into a Solutions Architect role, where I now blend technical expertise with strategic insight to create innovative and scalable solutions.
+I’m an experienced Solutions Architect and Systems Architect with a solid foundation in software development and business process optimization. Over the years, I’ve had the privilege of designing scalable, forward-thinking solutions that truly align with the goals of the organizations I’ve worked with. My background spans fintech, enterprise resource planning, and digital transformation, which has given me the ability to bridge the gap between technical execution and strategic vision.
 
-With skills in cloud architecture, enterprise systems, and digital transformation, I approach solution design holistically, ensuring that projects align with business goals and deliver measurable results. My passion lies in crafting solutions that are both functional and forward-thinking, adaptable to the ever-evolving tech landscape.
+Looking ahead, my goal is to evolve into an Enterprise Architect role where I can lead large-scale initiatives, inspire innovation, and ensure technology seamlessly supports and enhances business operations.
 
 ## Experience
 
-`2022 - Present`
+`2022 - Now`
 __Technology Officer & Co-Founder__ @ **StackFlows · Contract**
 
 - Collaborating closely with stakeholders to define and address business needs and project requirements.
@@ -41,7 +41,7 @@ __Technology Officer & Co-Founder__ @ **StackFlows · Contract**
 
 ---
 
-`2015 - Present`
+`2015 - Now`
 __Technology Officer__ @ **Kauno Krepšinio Lyga · Freelance**
 
 - Engaged with stakeholders to define and clarify business needs and requirements.
