@@ -12,9 +12,11 @@ Solutions Architect | Systems Architect | Bridging Technical Expertise with Stra
 
 **Phone**: +37060619595
 
-**LinkedIn**: [[LinkedIn profile URL]](https://www.linkedin.com/in/vytenis-sciukas-b5b89928)
+**LinkedIn**: [[https://www.linkedin.com/in/vytenis-sciukas-b5b89928]](https://www.linkedin.com/in/vytenis-sciukas-b5b89928)
 
-**GitHub**: [[GitHub profile URL]](https://github.com/vytsci)
+**GitHub**: [[https://github.com/vytsci]](https://github.com/vytsci)
+
+**StackExchange**: [[https://stackexchange.com/users/4335130/vytenis-%C5%A0%C4%8Diukas]](https://stackexchange.com/users/4335130/vytenis-%C5%A0%C4%8Diukas)
 
 ## Summary
 
