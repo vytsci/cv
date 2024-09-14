@@ -24,120 +24,142 @@ With skills in cloud architecture, enterprise systems, and digital transformatio
 
 ## Experience
 
-`2023`
-__Senior System Architect__ @ **Sensus Aero · Full-time**
+`2022 - Present`
+__Technology Officer & Co-Founder__ @ **StackFlows · Contract**
 
-- Leading the Sensus Aero project with a focus on process improvements and DevOps implementation.
-- Driving design enhancements for legacy systems and participating in critical architectural discussions.
-- Mentoring team members on complex technical issues and providing architectural guidance.
+- Collaborating closely with stakeholders to define and address business needs and project requirements.
+- Leading a development team in delivering innovative solutions while overseeing all aspects of the project lifecycle.
+- Prepared and assisted stakeholders with investor pitches and led discussions with venture capitalists.
+- Spearheaded the integration of Laravel REST API with Camunda BPM REST API for streamlined business process management.
+- Developed automated API documentation and client-building solutions using OpenAPI.
+- Supervised cloud infrastructure development and implemented a monorepo solution using React.js and Next.js.
 
-**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, React.js, Business Process Automation, BPMN, Code Refactoring, Leadership, SOLID Design Principles, MySQL, Business Requirements, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
+**Key Achievements:**
+- Played a pivotal role in investor meetings and mentorship programs, significantly enhancing the product's marketability.
 
+**Skills:** OOP, React.js, Next.js, Laravel, PHP, Java, Technical Specifications, Database Administration, SOLID Principles, Information System Design, Solution Architecture, ORM, Agile Methodologies, GRASP, Business Process Automation, BPMN, Camunda BPM, MySQL, DevOps, Cloud Infrastructure.
 
+---
 
-`2022`
-__Chief Technology Officer & Co-Founder__ @ **StackFlows · Contract**  
-  
-- Steering architectural decisions and ensuring alignment with stakeholders on various projects.
-- Leading the development team and overseeing the implementation of robust software solutions.
-- Conducting product presentations and consulting on marketing strategies.
+`2015 - Present`
+__Technology Officer__ @ **Kauno Krepšinio Lyga · Freelance**
 
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Business Process Automation, BPMN, Java, Project Coordination, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
+- Engaged with stakeholders to define and clarify business needs and requirements.
+- Provided consulting on technical strategies and solutions.
+- Led a team of 2 developers while managing server setup and maintenance using ISPConfig.
+- Established Google Cloud Platform for media storage, and integrated the website with Facebook for seamless content updates.
+- Refactored the CMS system to work on Symfony Sonata and implemented a modern front-end using Bootstrap.
 
+**Skills:** OOP, Symfony, Cache Management, Code Refactoring, Database Administration, SOLID Principles, Information System Design, PHP, ORM, System Architecture, Agile Methodologies, Leadership, Cloud Storage.
 
+---
 
-`2021`
-__Information Technology Business Analyst__ @ **Pigu perku group · Freelance**  
+`2023 - 2024`
+__Enterprise Resources Planning Developer__ @ **Sensus Aero · Full-time**
 
-- Conducted in-depth analysis of business processes and implemented analytical tools to optimize operations.
-- Provided IT consulting services to enhance company efficiency and process management.
+- Conducted detailed business analysis and refined technical solutions to meet business requirements.
+- Transitioned systems from the Kohana framework to Symfony, improving scalability and performance.
+- Introduced SOLID and GRASP patterns to enhance code quality, reduce coupling, and increase cohesion.
+- Mentored junior team members on architectural principles and participated in key architecture and design discussions.
+- Led the development of business domain maps and refined various business processes using BPMN.
 
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, BPMN, Leadership, SOLID Design Principles, MySQL, Laravel, Business Requirements, Customer Relationship Management (CRM), PHP, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture
+**Skills:** OOP, Symfony, Cache Management, React.js, RabbitMQ, Code Refactoring, Database Administration, SOLID Principles, Software Implementation, Business Requirements, PHP, ORM, System Architecture, Agile Methodologies, DDD, GRASP, Business Process Automation, BPMN, REST APIs, DevOps.
 
+---
 
+`2021 - 2022`
+__Technical Business Analyst__ @ **Pigu Perku Group · Freelance**
 
-`2019`
-__Solutions Architect__ @ **Baltic Transline · Full-time**  
+- Conducted a thorough analysis of business processes and identified areas for improvement.
+- Delivered technical improvements to internal software (Laravel, Sugar CRM) and implemented business analysis charts using Google Looker Studio.
+- Applied Agile leadership methodologies to streamline operations and optimize project management workflows.
 
-- Led a team of developers in designing and implementing new technological solutions to meet business needs.
-- Managed JIRA workflows and contributed to the recruitment process by interviewing potential new hires.
-- Designed and implemented new technological solutions.
+**Skills:** OOP, Cache Management, Technical Specifications, Database Administration, SOLID Principles, Software Implementation, Business Requirements, CRM, PHP, ORM, BPMN, MySQL, Agile Leadership.
 
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, GRASP, Process Assessment, React.js, Workflow Design, Business Process Automation, BPMN, Project Coordination, Code Refactoring, Leadership, Team Management, Camunda BPM, SOLID Design Principles, MySQL, Laravel, Business Requirements, Solution Architecture, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Employee Training, Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies, REST APIs, Message Queue
+---
 
+`2019 - 2021`
+__Solutions Architect__ @ **Baltic Transline · Full-time**
 
+- Led the analysis of the organization's current technology landscape, identifying business needs and crafting solutions to meet them.
+- Introduced and implemented a REST API using Laravel, optimizing legacy ERP systems and improving workflow efficiencies.
+- Developed front-end applications for various departments using HTML, CSS, JavaScript, and React.js.
+- Designed and optimized SQL databases, analyzed and built a comprehensive business domain map, and introduced event-driven solutions.
+- Implemented ELK Kibana dashboards for vehicle tracking data, working with datasets exceeding 500GB.
+- Introduced JIRA workflows and Docker for development services, and participated in the recruitment process.
 
-`2018`
-__Chief Software Architect & Engineer__ @ **Tillforty · Full-time**  
+**Key Achievements:**
+- Integrated Camunda BPM as a process engine and mentored business analysts on BPMN design processes.
+- Designed and implemented automation solutions using Make.com for quick business turnaround.
 
-- Led the development team on a Swedish flight compensation platform, analyzing and implementing business requirements.
+**Skills:** OOP, React.js, Laravel, Camunda BPM, Workflow Design, Code Refactoring, SQL, Event-Driven Programming, BPMN, Elasticsearch, JIRA, Docker, ERP, Business Process Automation.
 
-**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, Workflow Design, Business Process Automation, BPMN, Project Coordination, Leadership, Team Management, SOLID Design Principles, MySQL, Business Requirements, PHP, Team Leadership, Object-Relational Mapping (ORM), Business Process Analysis, Database Design, DevOps, Domain Architecture, System Architecture
+---
 
+`2018 - 2019`
+__Chief Software Engineer__ @ **Tillforty · Full-time**
 
+- Led a team of developers on a Swedish flight compensation platform, managing all stages of the development lifecycle.
+- Worked on Symfony ORO CRM and designed a fully Event-Driven and Domain-Driven solution.
+- Conducted in-depth analysis of business requirements and processes, modeling workflows using BPMN.
 
-`2017`
-__Chief Technology Officer__ @ **Ubie Digital · Full-time**  
+**Skills:** OOP, Symfony, Workflow Design, Business Process Automation, BPMN, SOLID Principles, MySQL, ORM, Database Design, DevOps, Domain Architecture, System Architecture.
 
-- Directed technical teams and managed client relationships to ensure the successful delivery of projects.
-- Reported project progress and addressed client needs effectively.
+---
 
-**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, Project Coordination, Leadership, Team Management, SOLID Design Principles, MySQL, Business Requirements, Solution Architecture, Customer Relationship Management (CRM), PHP, Team Leadership, Object-Relational Mapping (ORM), Database Design, DevOps, System Architecture
+`2017 - 2018`
+__Chief Technology Officer__ @ **Ubie Digital · Full-time**
 
+- Directed technical teams and managed client relationships, ensuring the successful delivery of projects.
+- Delivered an API for "Kauno Grūdai" field workers and led Symfony Akeneo PIM integration for "BigBox.lt."
+- Led e-commerce development projects using PrestaShop, OpenCart, and Magento.
 
+**Skills:** OOP, Symfony, Akeneo PIM, PrestaShop, OpenCart, Magento, Cache Management, CRM, PHP, SOLID Principles, ORM, Database Design, DevOps.
 
-`2017`
-__Senior Software Engineer__ @ **Dizaino kryptis · Full-time**  
+---
 
-- Led internal CMS code refactoring efforts to enhance system performance.
+`2016 - 2017`
+__Senior Software Engineer__ @ **Synergy Effect · Contract**
 
-**Skills:** Object-Oriented Programming (OOP), Symfony, Code Refactoring, MySQL, Business Requirements, PHP, Object-Relational Mapping (ORM), Database Design, System Architecture, Custom Software Development
+- Led development efforts on various projects, ensuring alignment with business objectives.
+- Integrated Elasticsearch into a classified ads platform to enhance data lookup performance.
+- Worked on Laravel to develop high-performance, scalable solutions.
 
+**Skills:** OOP, Laravel, Elasticsearch, WordPress, Cache Management, PHP, ORM, MySQL, Database Design, System Architecture.
 
+---
 
-`2016`
-__Senior Software Engineer__ @ **Synergy Effect · Contract**  
+`2015 - 2016`
+__Software Engineer__ @ **Bumfix · Full-time**
 
-- Led programming efforts on various development projects, ensuring alignment with business objectives.
+- Migrated a legacy codebase from Fork CMS to Symfony Sonata.
+- Developed and implemented an e-commerce solution using Symfony Sonata.
 
-**Skills:** Magento, Object-Oriented Programming (OOP), WordPress, MySQL, Laravel, Business Requirements, PHP, Object-Relational Mapping (ORM), Database Design, System Architecture
+**Skills:** OOP, Symfony Sonata, Cache Management, Code Refactoring, PHP, ORM, Database Design, MySQL.
 
+---
 
+`2014 - 2015`
+__Software Engineer__ @ **GONEPLAN · Full-time**
 
-`2015`
-__Software Engineer__ @ **Bumfix · Full-time** 
+- Designed MySQL databases and built CMS modules based on business requirements.
+- Developed a JavaScript-based graphical user interface for stadium seat selection.
 
-- Contributed to the BumFix project, focusing on programming and business requirement analysis.
+**Skills:** OOP, Symfony, PHP, MySQL, JavaScript, Database Design.
 
-**Skills:** Object-Oriented Programming (OOP), Symfony, Code Refactoring, MySQL, PHP, Object-Relational Mapping (ORM), Database Design, System Architecture
+---
 
+`2011 - 2014`
+__Software Engineer__ @ **UAB Media Inovacijos · Full-time**
 
+- Designed SQL databases and worked on various PHP-based projects.
+- Built e-commerce solutions using PrestaShop and OpenCart.
+- Refactored the money-lending platform "Bobutes Paskola" from SystemSight to Symfony and conducted business requirements analysis, including BPMN diagramming.
 
-`2015`
-__Project Manager__ @ **Kauno Krepšinio Lyga · Freelance**
+**Key Projects:**
+- Refactored a major money-lending platform, a critical achievement in the fintech space.
 
-- Overseeing website maintenance and server management while coordinating programming tasks.
-- Ensuring alignment of technical solutions with organizational goals.
-
-**Skills:** Object-Oriented Programming (OOP), GRASP, Symfony, Process Assessment, Project Coordination, Code Refactoring, Leadership, Team Management, SOLID Design Principles, MySQL, Business Requirements, PHP, Object-Relational Mapping (ORM), Database Design, DevOps, Domain Architecture, System Architecture, Agile Methodologies
-
-
-
-`2014`
-__Software Engineer__ @ **GONEPLAN · Full-time**  
-
-- Contributed to the GonePlan project, focusing on programming and business requirement analysis.
-
-**Skills:** Object-Oriented Programming (OOP), Symfony, MySQL, PHP, Database Design, System Architecture
-
-
-
-`2011`
-__Software Engineer__ @ **UAB Media Inovacijos · Full-time** 
-
-- Involved in various development projects.
-
-**Skills:** Object-Oriented Programming (OOP), Analytical Skills, Symfony, BPMN, Java, Code Refactoring, MySQL, Customer Relationship Management (CRM), PHP, Database Design, System Architecture, Custom Software Development
+**Skills:** OOP, Symfony, Cache Management, Java, PHP, MySQL, BPMN, Customer Relationship Management (CRM), SQL Database Design, Custom Software Development.
 
 ## Education
 
